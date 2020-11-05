@@ -1,0 +1,11 @@
+# Clion Folders and Files
+.idea/
+cmake-build-debug/
+CMakeLists.txt
+#BSQ Binary Files
+**/*.o
+bsq
+unit_tests
+#BSQ Coverage Files
+**/*.gcda
+**/*.gcno
